@@ -21,6 +21,15 @@ html, body {
     margin-bottom: 0.3em !important;
 }
 
+.subsubtitle {
+    font-size: 22px !important;
+    color: #ffffff !important;
+    font-family: Phantomsans, sans-serif;
+    font-weight: 600;
+    padding-left: 2rem;
+}
+
+
 .courses-container {
     font-size: 18px;
     margin-top: 4em;
