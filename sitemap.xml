@@ -9,18 +9,233 @@
 
 <url>
   <loc>https://iut.adriencaubel.fr/</loc>
-  <lastmod>2023-08-27T12:57:19+00:00</lastmod>
+  <lastmod>2023-11-29T18:47:47+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
-  <loc>https://iut.adriencaubel.fr/index.html</loc>
-  <lastmod>2023-08-27T12:57:19+00:00</lastmod>
+  <loc>https://iut.adriencaubel.fr/courses/agile.html</loc>
+  <lastmod>2023-11-25T08:58:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://iut.adriencaubel.fr/courses/urbanisation.html</loc>
+  <lastmod>2023-11-25T08:58:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://iut.adriencaubel.fr/courses/integration.html</loc>
+  <lastmod>2023-12-12T17:45:57+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://iut.adriencaubel.fr/cours/referenciel_de_formation.pdf</loc>
   <lastmod>2023-08-27T12:50:18+00:00</lastmod>
   <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://iut.adriencaubel.fr/cours/cours/presentation_et_evaluation.pdf</loc>
+  <lastmod>2023-10-05T19:56:10+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://iut.adriencaubel.fr/index.html</loc>
+  <lastmod>2023-11-29T18:47:47+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://iut.adriencaubel.fr/cours/cours/session1/chap1-Agile-diapo.pdf</loc>
+  <lastmod>2023-10-01T11:05:21+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://iut.adriencaubel.fr/cours/cours/session1/chap1-Agile.pdf</loc>
+  <lastmod>2023-10-01T11:05:21+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://iut.adriencaubel.fr/cours/cours/session1/chap2-Lean-diapo.pdf</loc>
+  <lastmod>2023-10-01T11:05:21+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://iut.adriencaubel.fr/cours/cours/session1/chap2-Lean.pdf</loc>
+  <lastmod>2023-10-01T11:05:21+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://iut.adriencaubel.fr/cours/cours/session2/Scrum-diapo.pdf</loc>
+  <lastmod>2023-10-01T11:05:21+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://iut.adriencaubel.fr/cours/cours/session2/chap3-Scrum.pdf</loc>
+  <lastmod>2023-10-01T15:56:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://iut.adriencaubel.fr/cours/cours/session3/Kanban-diapo.pdf</loc>
+  <lastmod>2023-10-11T19:34:26+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://iut.adriencaubel.fr/cours/cours/session3/chap4-Kanban.pdf</loc>
+  <lastmod>2023-10-09T19:25:03+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://iut.adriencaubel.fr/cours/cours/session2/Nexus-diapo.pdf</loc>
+  <lastmod>2023-10-01T11:05:21+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://iut.adriencaubel.fr/cours/cours/session4/SAFe-diapo.pdf</loc>
+  <lastmod>2023-10-14T12:05:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://iut.adriencaubel.fr/cours/cours/session4/Chap6-SAFe.pdf</loc>
+  <lastmod>2023-10-14T12:05:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://iut.adriencaubel.fr/cours/cours/session2/scrum_vs_kanban_livre.pdf</loc>
+  <lastmod>2023-10-01T15:56:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://iut.adriencaubel.fr/cours/cours/session1/cycle_de_vie.pdf</loc>
+  <lastmod>2023-10-01T11:05:21+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://iut.adriencaubel.fr/cours/cours/session1/developpeurs_vs_executants.pdf</loc>
+  <lastmod>2023-10-01T11:05:21+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://iut.adriencaubel.fr/cours/cours/session2/1-Role_chef_projet.pdf</loc>
+  <lastmod>2023-10-01T11:05:21+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://iut.adriencaubel.fr/cours/cours/session2/role_chef_de_projet.pdf</loc>
+  <lastmod>2023-10-01T11:05:21+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://iut.adriencaubel.fr/cours/cours/session2/2-Planification.pdf</loc>
+  <lastmod>2023-10-01T15:56:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://iut.adriencaubel.fr/cours/cours/session2/planifier_projet.pdf</loc>
+  <lastmod>2023-10-01T14:49:24+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://iut.adriencaubel.fr/cours/cours/session2/3-%20Pilotage.pdf</loc>
+  <lastmod>2023-10-01T11:05:21+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://iut.adriencaubel.fr/cours/cours/session2/burndown_chart.pdf</loc>
+  <lastmod>2023-10-01T11:05:21+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://iut.adriencaubel.fr/cours/cours/session3/td_burnup_chart.pdf</loc>
+  <lastmod>2023-10-05T19:56:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://iut.adriencaubel.fr/cours/cours/session2/sprint_planning.pdf</loc>
+  <lastmod>2023-10-01T15:56:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://iut.adriencaubel.fr/cours/cours/session2/daily.pdf</loc>
+  <lastmod>2023-10-01T15:56:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://iut.adriencaubel.fr/cours/cours/session2/sprint_review.pdf</loc>
+  <lastmod>2023-10-01T15:56:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://iut.adriencaubel.fr/cours/cours/session3/flux_cumule.pdf</loc>
+  <lastmod>2023-10-05T19:56:10+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://iut.adriencaubel.fr/cours/cours/session3/user_story_VS_pbi.pdf</loc>
+  <lastmod>2023-10-07T10:52:13+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://iut.adriencaubel.fr/cours/cours/session3/user_story_questionnement.pdf</loc>
+  <lastmod>2023-10-07T10:52:13+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://iut.adriencaubel.fr/cours/cours/session3/invest_story-diapo.pdf</loc>
+  <lastmod>2023-10-08T07:39:17+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://iut.adriencaubel.fr/cours/cours/session3/invest_story.pdf</loc>
+  <lastmod>2023-10-06T16:37:12+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://iut.adriencaubel.fr/cours/cours/session3/UserStoriesMapping-diapo.pdf</loc>
+  <lastmod>2023-10-11T19:36:45+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://iut.adriencaubel.fr/cours/cours/session3/user_story_mapping.pdf</loc>
+  <lastmod>2023-10-11T19:36:45+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://iut.adriencaubel.fr/cours/cours/urbanisation/SI.pdf</loc>
+  <lastmod>2023-11-25T08:58:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://iut.adriencaubel.fr/cours/cours/urbanisation/cartographie.pdf</loc>
+  <lastmod>2023-11-25T08:58:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://iut.adriencaubel.fr/cours/cours/urbanisation/urbanisation.pdf</loc>
+  <lastmod>2023-11-25T08:58:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://iut.adriencaubel.fr/cours/cours/integration/C4_Model.pdf</loc>
+  <lastmod>2023-11-28T19:39:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://iut.adriencaubel.fr/cours/cours/integration/API_Design.pdf</loc>
+  <lastmod>2023-11-28T19:39:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://iut.adriencaubel.fr/cours/cours/integration/bonne_conception_aide.pdf</loc>
+  <lastmod>2023-11-30T19:41:22+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://iut.adriencaubel.fr/cours/cours/integration/architecture_styles.pdf</loc>
+  <lastmod>2023-11-28T19:39:41+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://iut.adriencaubel.fr/cours/cours/integration/devops.pdf</loc>
+  <lastmod>2023-12-12T17:45:57+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
 
 
